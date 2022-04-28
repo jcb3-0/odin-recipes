@@ -1,6 +1,6 @@
 # odin-recipes
 
-Create a recipe website designed to demonstrate basic html.
+Create a recipe website designed to demonstrate basic html
 
 -Demonstrate boilerplate.
 -Use parent and sibling elements.
